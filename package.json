@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "aws-sdk": "^2.4.12",
+    "bluebird": "^3.4.5",
     "cache-manager": "^2.1.2",
     "he": "^1.1.0",
     "lodash": "^4.14.1",
     "phridge": "^2.0.0",
+    "redis": "^2.6.2",
     "signal-exit": "^3.0.0"
   },
   "devDependencies": {
